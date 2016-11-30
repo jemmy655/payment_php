@@ -1,4 +1,4 @@
-# paycode_php
+# payment_php
 Interswitch Payment PHP Library
 
 
