@@ -18,7 +18,7 @@
         "type": "vcs",
         "url": "https://github.com/techquest/payment_php"
       }
-    ],i
+    ],
     "require": {
         "php": "^5.3.3 || ^7.0"
     },
