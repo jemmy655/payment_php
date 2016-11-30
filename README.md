@@ -96,9 +96,6 @@ if($httpRespCode == '200' || $httpRespCode == '201' || $httpRespCode == '202')
 
 ## Third Party Packages
 
-- interswitch
-- JWT
-
 ## About
 
 ### Requirements
