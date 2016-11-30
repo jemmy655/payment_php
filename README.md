@@ -23,7 +23,6 @@ $CLIENT_ID = "IKIA9614B82064D632E9B6418DF358A6A4AEA84D7218";
 $CLIENT_SECRET = "XCTiBtLy1G9chAnyg0z3BcaFK4cVpwDg/GTw2EmjTZ8=";
 $env = Payment::ENV_SANDBOX; // Payment::ENV_PRODUCTION
 $payment = new Payment($CLIENT_ID, $CLIENT_SECRET, $env);
-$accessToken = ''; // Get user access token from Interswitch Passport (https://sandbox.interswitchng.com/passport/oauth/authorize) or https://saturn.interswitchng.com/passport/oauth/authorize.
 
 $pan = '6280511000000095';
 $expDate = '5004';
